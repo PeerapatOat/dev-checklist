@@ -5,10 +5,10 @@
 ## ความรู้พื้นฐานของ Computer Science
 
 - [x] JavaScript
-- [ ] Python
+- [x] Python
 - [ ] Java
 - [ ] C#
-- [ ] PHP
+- [x] PHP
 - [ ] Ruby
 - [ ] Go
 
@@ -23,8 +23,8 @@
 
 ## ระบบการจัดการฐานข้อมูล
 
-- [ ] ฐานข้อมูล SQL
-- [ ] ใช้งาน MySQL
+- [x] ฐานข้อมูล SQL
+- [x] ใช้งาน MySQL
 - [ ] ใช้งาน PostgreSQL
 - [ ] ฐานข้อมูล NoSQL
 - [ ] ใช้งาน MongoDB
@@ -35,7 +35,7 @@
 - [ ] Web Services
 - [ ] การรับ ส่งข้อมูลจากฝั่ง Client
 - [ ] การทํางานร่วมกับ JavaScript Frameworks
-- [ ] พื้นฐาน HTML CSS และ JavaScript
+- [x] พื้นฐาน HTML CSS และ JavaScript
 
 ## การพัฒนา RESTFUL API
 
